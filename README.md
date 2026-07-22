@@ -4,7 +4,7 @@ M.Sc. Embedded Systems student at **TU Chemnitz**, Germany, with a B.E. in Elect
 
 🔭 Currently seeking a **Werkstudent/internship role in embedded systems and robotics**, with a focus on ROS2, real-time firmware, and automotive embedded protocols.
 
-📍 Chemnitz, Germany | 📧 seshasd08@gmail.com
+📍 Chemnitz, Germany | 📧 seshastar84@gmail.com
 
 ---
 
